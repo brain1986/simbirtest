@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="simbirtest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/simbirtest_jar</output-path>
+    <root id="archive" name="simbirtest.jar">
+      <element id="module-output" name="simbirtest" />
+      <element id="module-output" name="ru.iprustam.main" />
+      <element id="module-output" name="ru.iprustam.downloaders" />
+      <element id="module-output" name="ru.iprustam.wordparsers" />
+      <element id="module-output" name="ru.iprustam.exporters" />
+      <element id="module-output" name="ru.iprustam.db" />
+      <element id="module-output" name="ru.iprustam.logger" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/h2-1.4.200.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

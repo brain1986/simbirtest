@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ru.iprustam.db/ru.iprustam.db.iml" filepath="$PROJECT_DIR$/ru.iprustam.db/ru.iprustam.db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ru.iprustam.downloaders/ru.iprustam.downloaders.iml" filepath="$PROJECT_DIR$/ru.iprustam.downloaders/ru.iprustam.downloaders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ru.iprustam.exporters/ru.iprustam.exporters.iml" filepath="$PROJECT_DIR$/ru.iprustam.exporters/ru.iprustam.exporters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ru.iprustam.logger/ru.iprustam.logger.iml" filepath="$PROJECT_DIR$/ru.iprustam.logger/ru.iprustam.logger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ru.iprustam.main/ru.iprustam.main.iml" filepath="$PROJECT_DIR$/ru.iprustam.main/ru.iprustam.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ru.iprustam.wordparsers/ru.iprustam.wordparsers.iml" filepath="$PROJECT_DIR$/ru.iprustam.wordparsers/ru.iprustam.wordparsers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simbirtest.iml" filepath="$PROJECT_DIR$/simbirtest.iml" />
+    </modules>
+  </component>
+</project>
